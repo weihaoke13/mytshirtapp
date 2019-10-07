@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mytshirtapp/static/css/main.a41948a7.chunk.css",
+    "main.js": "/mytshirtapp/static/js/main.0c0844e0.chunk.js",
+    "main.js.map": "/mytshirtapp/static/js/main.0c0844e0.chunk.js.map",
+    "runtime~main.js": "/mytshirtapp/static/js/runtime~main.52def38a.js",
+    "runtime~main.js.map": "/mytshirtapp/static/js/runtime~main.52def38a.js.map",
+    "static/js/2.25611c8b.chunk.js": "/mytshirtapp/static/js/2.25611c8b.chunk.js",
+    "static/js/2.25611c8b.chunk.js.map": "/mytshirtapp/static/js/2.25611c8b.chunk.js.map",
+    "index.html": "/mytshirtapp/index.html",
+    "precache-manifest.01f5996c0cfe0c55133763c9bb34cdfb.js": "/mytshirtapp/precache-manifest.01f5996c0cfe0c55133763c9bb34cdfb.js",
+    "service-worker.js": "/mytshirtapp/service-worker.js",
+    "static/css/main.a41948a7.chunk.css.map": "/mytshirtapp/static/css/main.a41948a7.chunk.css.map"
+  }
+}
